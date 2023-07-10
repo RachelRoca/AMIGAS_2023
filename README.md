@@ -33,7 +33,6 @@ ___
 ## <left><h3> (Self-guided) : Getting Started with Basic Scientific Computing in R. </h3></left>
 <a href="https://www.datacamp.com/courses/free-introduction-to-r">Datacamp for R</a> 
 
-
 ## <left><h3> (Self-guided) : Getting Started with Basic Scientific Computing in Python. </h3></left>
 <a href="https://www.datacamp.com/courses/intro-to-python-for-data-science">Datacamp for Python</a> 
 ___
@@ -51,6 +50,13 @@ ___
 ## <left><h3> Scientific Writing Links </h3></left>
 <a href="https://docs.google.com/document/d/1p1nWgKS-WtL0-zMBAWFtKabNIGO5wAy2HPJII0ZaUjw/edit?usp=sharing">Scientific Writing Exercise</a> 
 
+<a href="https://www.notion.so/">Notion</a> 
+
+<a href="https://mathpix.com/">Math Pix</a> 
+
+<a href="https://www.overleaf.com/">Overleaf</a> 
+
+<a href="https://www.grammarly.com/">Grammarly</a> 
 ___
 ## <left><h3> Resources and Links from Questions </h3></left>
 <a href="https://r-graph-gallery.com/ggplot2-package.html"> ggplot Package </a> 
