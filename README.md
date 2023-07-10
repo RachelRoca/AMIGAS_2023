@@ -49,4 +49,4 @@ ___
 ___
 
 ## <left><h3> Scientific Writing </h3></left>
-<a href="https://docs.google.com/document/d/1p1nWgKS-WtL0-zMBAWFtKabNIGO5wAy2HPJII0ZaUjw/edit?usp=sharing">Scientific Writing Google Drive</a> 
+<a href="https://docs.google.com/document/d/1p1nWgKS-WtL0-zMBAWFtKabNIGO5wAy2HPJII0ZaUjw/edit?usp=sharing">Scientific Writing Exercise</a> 
