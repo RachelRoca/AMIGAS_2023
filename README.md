@@ -36,7 +36,6 @@ ___
 
 ## <left><h3> (Self-guided) : Getting Started with Basic Scientific Computing in Python. </h3></left>
 <a href="https://www.datacamp.com/courses/intro-to-python-for-data-science">Datacamp for Python</a> 
-
 ___
 
 <left><h3> Modules </h3></left>
@@ -47,4 +46,7 @@ ___
 | July 12 | In person | Using Machine Learning Techniques to Explore and Analyze LiDAR 3D Point Clouds (Instructor: Patricia Medina) | TBA | 
 | July 13 | In person | Using Machine Learning to Find Interesting Phenomena in Large Image Archives (Instructor: Umaa Rebbapragada)| TBA | 
 | July 14 | In person | Presentations | | 
-_________
+___
+
+## <left><h3> Scientific Writing </h3></left>
+<a href="https://docs.google.com/document/d/1p1nWgKS-WtL0-zMBAWFtKabNIGO5wAy2HPJII0ZaUjw/edit?usp=sharing">Scientific Writing Google Drive</a> 
