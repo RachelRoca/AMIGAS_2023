@@ -41,7 +41,7 @@ ___
 | Date (PST) | Location | Description | Links and Files |
 | --------| -------- | -------- | -------- |
 | July 10 | In person | Statistical Foundations: From Theory to Practice (Instructor: Vianey Leos Barajas + Sofia Ruiz Suarez) | <a href="https://colab.research.google.com/drive/1xUtgz72ozChMaBeiYuNUce21AW_sqiyR?usp=sharing"> Part 1 </a> <a href="https://colab.research.google.com/drive/1DIWnIDDB5isuqzwBBURgrs8TLOpe0SUb?usp=sharing"> Part 2 </a>| 
-| July 11 | In person | Data Driven Mathematical Models and Simulation Techniques (Instructor: Keisha Cook) | TBA | 
+| July 11 | In person | Data Driven Mathematical Models and Simulation Techniques (Instructor: Keisha Cook) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vZHy9KUmI8B1e5Fr0GWqWfPDf-nPO2OP?authuser=2#scrollTo=8m4se8Xs6mD0)  | 
 | July 12 | In person | Using Machine Learning Techniques to Explore and Analyze LiDAR 3D Point Clouds (Instructor: Patricia Medina) | TBA | 
 | July 13 | In person | Using Machine Learning to Find Interesting Phenomena in Large Image Archives (Instructor: Umaa Rebbapragada)| TBA | 
 | July 14 | In person | Presentations | | 
