@@ -42,7 +42,7 @@ ___
 | --------| -------- | -------- | -------- |
 | July 10 | In person | Statistical Foundations: From Theory to Practice (Instructor: Vianey Leos Barajas + Sofia Ruiz Suarez) | <a href="https://colab.research.google.com/drive/1xUtgz72ozChMaBeiYuNUce21AW_sqiyR?usp=sharing"> Part 1 </a> <a href="https://colab.research.google.com/drive/1DIWnIDDB5isuqzwBBURgrs8TLOpe0SUb?usp=sharing"> Part 2 </a>| 
 | July 11 | In person | Data Driven Mathematical Models and Simulation Techniques (Instructor: Keisha Cook) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F2G5gk_c5Hw3uAHFD7RGdAaomz909F8s?usp=sharing) | 
-| July 12 | In person | Using Machine Learning Techniques to Explore and Analyze LiDAR 3D Point Clouds (Instructor: Patricia Medina) |  [![Open In Colab](https://colab.research.google.com/drive/1hqvOXZS4d8q7fNixkF57BhaWYpXNKLbB?usp=sharing)| 
+| July 12 | In person | Using Machine Learning Techniques to Explore and Analyze LiDAR 3D Point Clouds (Instructor: Patricia Medina) |  [![Open In Colab] (https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hqvOXZS4d8q7fNixkF57BhaWYpXNKLbB?usp=sharing)| 
 | July 13 | In person | Using Machine Learning to Find Interesting Phenomena in Large Image Archives (Instructor: Umaa Rebbapragada)| TBA | 
 | July 14 | In person | Presentations | | 
 ___
