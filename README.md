@@ -47,6 +47,7 @@ ___
 | July 14 | In person | Presentations | | 
 ___
 
+
 ## <left><h3> Scientific Writing Links </h3></left>
 <a href="https://docs.google.com/document/d/1p1nWgKS-WtL0-zMBAWFtKabNIGO5wAy2HPJII0ZaUjw/edit?usp=sharing">Scientific Writing Exercise</a> 
 
